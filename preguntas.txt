@@ -1,0 +1,11 @@
+1. Que diferencia hay entre un igual (=) y un doble (==)?
+	El signo (=) se usa para asignación y el signo (==) se utilizan para fines de comparación.
+
+2. Tipos de datos básicos en java?
+	Datos primitivos, de fecha y hora y numeros
+
+3. Quien es la empresa que actualmente se encarga de mantener el desarrollo de java?
+	Oracle
+
+4. En qué otros campos se puede utilizar java para crear software?
+	Aplicaciones moviles, comunicación, y de entretenimiento 
